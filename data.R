@@ -1,4 +1,4 @@
-#山羽研究
+#yk研究
 library(tidyverse)
 library(lubridate)
 library(gnnlab)
